@@ -1,2 +1,2 @@
 # render-rest-go
-A Go library for Render's REST API
+A Go library for [Render's REST API](https://render.com/docs/api)
